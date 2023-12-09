@@ -1,0 +1,42 @@
+site_name: KTANE Olympic Manual
+site_url: 
+nav:
+    - Home: index.md
+    - Intro:
+      - 'Defusing Bombs': 'intro/defusing.md'
+    - Modules:
+      - 'Wires': 'keep-talking-olympic-manual/docs/modules/wires.md'
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+markdown_extensions:
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+plugins:
+  - glightbox
