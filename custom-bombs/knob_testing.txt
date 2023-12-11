@@ -1,0 +1,11 @@
+//TIME AND STRIKES
+20:00
+1X
+
+// MODULES
+1*NeedyKnob
+1*BigButton
+
+// OTHER OPTIONS
+needyactivationtime:1
+frontonly
