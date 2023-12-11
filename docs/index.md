@@ -8,7 +8,14 @@ hide:
 
 👋 Keep Talking and Nobody Explodes
 
-BOMB DEFUSAL MANUAL
-www.keeptalkinggame.com
+<img src="https://bombmanual.com/img/header.png" alt="header" width="300"/>
 
-edit
+<span style="font-weight:700;font-size:50px">
+    BOMB DEFUSAL MANUAL
+</span>
+
+
+
+[www.keeptalkinggame.com](www.keeptalkinggame.com)
+
+[Google Doc Manual](https://bit.ly/ktane-olympicmanual)

@@ -7,6 +7,8 @@ nav:
     - Modules:
       - 'Wires': 'keep-talking-olympic-manual/docs/modules/wires.md'
 theme:
+  font:
+    text: Special Elite
   name: material
   features:
     - navigation.tabs
